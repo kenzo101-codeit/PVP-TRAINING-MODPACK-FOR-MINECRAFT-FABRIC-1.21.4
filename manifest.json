@@ -1,0 +1,74 @@
+{
+  "minecraft": {
+    "version": "1.21.4",
+    "modLoaders": [
+      {
+        "id": "fabric-0.18.1",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "PvP Training (Fabric)",
+  "version": "2.0.5",
+  "author": "",
+  "files": [
+    {
+      "projectID": 1302700,
+      "fileID": 6744040,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 7117077,
+      "required": true
+    },
+    {
+      "projectID": 1170030,
+      "fileID": 6304912,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 6662854,
+      "required": true
+    },
+    {
+      "projectID": 1037459,
+      "fileID": 5926558,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 6863303,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 5987042,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 6293895,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 6155088,
+      "required": true
+    },
+    {
+      "projectID": 973478,
+      "fileID": 6710642,
+      "required": true
+    },
+    {
+      "projectID": 835847,
+      "fileID": 7291162,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
