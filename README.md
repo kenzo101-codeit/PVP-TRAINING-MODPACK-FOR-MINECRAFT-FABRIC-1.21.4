@@ -1,11 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
 
-# PvP Training Pack
+PvP Training Pack
 =================
 
 This modpack is explicitly designed for practicing and mastering advanced Minecraft PvP techniques, with a special focus on the Mace weapon and advanced movement.
 
-## WHAT DOES IT INCLUDE?
+WHAT DOES IT INCLUDE?
 ---------------------
 
 *   **Carpet PvP Tools:** Dedicated mods like Carpet and its PvP extensions for spawning and managing training bots.
@@ -13,7 +13,7 @@ This modpack is explicitly designed for practicing and mastering advanced Minecr
 *   **Voice Chat Mod:** Integrated voice communication for training with friends.
 *   **Training World:** A custom-built map specifically designed for combat drills (included in the main pack file).
 
-## UNIQUE FEATURES
+UNIQUE FEATURES
 ---------------
 
 *   The first publicly available modpack dedicated to structured Mace and high-level PvP training.
@@ -21,7 +21,7 @@ This modpack is explicitly designed for practicing and mastering advanced Minecr
 
 * * *
 
-## ADVANCED BOT COMMANDS (In-Game Reference)
+ADVANCED BOT COMMANDS (In-Game Reference)
 -----------------------------------------
 
 For players using the bot named **TheobaldTheBot**, here is a quick guide to restoring gear and using advanced commands:
